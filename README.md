@@ -11,4 +11,4 @@
 ![EditorDeTexto](Editor.gif)
 
 
-###### _André Pereira e Sara Pereira
+###### André Pereira e Sara Pereira
